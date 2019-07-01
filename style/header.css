@@ -1,0 +1,19 @@
+.bg-light 
+{
+    background-color: rgba(132, 131, 125, 0.13)!important;
+}
+.navbar-light .navbar-brand 
+{
+    font-family: cursive;
+    font-size: 25px;
+}
+
+.btn_connexion
+{
+    margin-right: 20px;
+}
+
+.img_cam
+{
+    width: 6%;
+}

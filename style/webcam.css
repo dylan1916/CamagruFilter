@@ -1,0 +1,25 @@
+body
+{
+ background-color: #FAFAFA;
+}
+
+#video
+{
+border: 2px solid black;
+}
+
+#content
+{
+    margin-left: 270px;
+}
+
+.container-fluid
+{
+    display: flex;
+}
+
+#button
+{
+    margin-left: 230px;
+    margin-top: 230px;
+}

@@ -1,0 +1,28 @@
+body
+{
+    background-color:#FAFAFA;
+}
+
+.img_polaroid
+{
+    width: 95%;
+    margin-left: 60px;
+    margin-top: 110px;
+}
+
+.center
+{
+    display:flex;
+}
+
+.title_card
+{
+    font-family: cursive;
+    font-size: 35px;
+}
+
+.btn-outline-primary 
+{
+    color: #3897EF;
+    border-color:#3897EF;
+}
